@@ -1,0 +1,241 @@
+[
+    {
+        "id": 1,
+        "title": "フェールラーベン - フォールズサック No. 1 バックパック、15 台のノートパソコンを収納可能",
+        "price": 16000,
+        "description": "毎日の使用や森の散歩に最適なパックです。パッド入りスリーブにノートパソコン（最大15インチ）を収納し、毎日の使用に最適です。",
+        "category": "men's clothing",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/1.jpg",
+        "rating": {
+        "rate": 3.9,
+        "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "メンズ カジュアル プレミアム スリムフィット Tシャツ",
+        "price": 3300,
+        "description": "スリムフィットスタイル、コントラストのあるラグラン長袖、3つボタンのヘンリー前立て、軽量で柔らかい生地で通気性があり快適に着用できます。また、ラウンドネックのしっかりとしたステッチのシャツは耐久性があり、カジュアルファッションや野球ファンに最適です。ヘンリースタイルのラウンドネックには、3つボタンの前立てが付いています。",
+        "category": "men's clothing",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/2.jpg",
+        "rating": {
+        "rate": 4.1,
+        "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "メンズコットンジャケット",
+        "price": 8400,
+        "description": "春/秋/冬に最適なアウタージャケット。仕事、ハイキング、キャンプ、登山/ロッククライミング、サイクリング、旅行、その他のアウトドアなど、さまざまな場面に適しています。ご自身やご家族へのギフトに最適です。感謝祭やクリスマスの日に、お父様、ご主人、息子さんへの温かい愛情を。",
+        "category": "men's clothing",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/3.jpg",
+        "rating": {
+        "rate": 4.7,
+        "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "メンズ カジュアル スリムフィット",
+        "price": 2500,
+        "description": "画面上と実物では多少色具合が異なって見える場合がございます。/ 体格は人それぞれ異なるため、詳しいサイズ情報は商品説明の下部に記載しておりますのでご確認ください。",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/4.jpg",
+        "rating": {
+        "rate": 2.1,
+        "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "ジョン ハーディー レディース レジェンド ナガ ゴールド & シルバー ドラゴン ステーション チェーン ブレスレット",
+        "price": 105000,
+        "description": "レジェンド コレクションのナガは、海の真珠を守る神話上の水竜からインスピレーションを得ています。内側を向いて着用すると愛と豊かさが授かり、外側を向いて着用すると保護されます。",
+        "category": "jewelery",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/5.jpg",
+        "rating": {
+        "rate": 4.6,
+        "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "ソリッドゴールドプチマイクロパヴェ",
+        "price": 25000,
+        "description": "満足保証。30 日以内にご注文を返品または交換してください。米国の Hafeez Center がデザインし、販売しています。満足保証。30 日以内にご注文を返品または交換してください。",
+        "category": "jewelery",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/6.jpg",
+        "rating": {
+        "rate": 3.9,
+        "count": 70
+        }
+    },
+    {
+        "id": 7,
+        "title": "ホワイトゴールドメッキプリンセス",
+        "price": 1500,
+        "description": "彼女のためのクラシックなウェディング エンゲージメント ソリティア ダイヤモンド プロミス リング。婚約、結婚式、記念日、バレンタインデーなど、あなたの愛をさらに盛り上げるギフトです。",
+        "category": "jewelery",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/7.jpg",
+        "rating": {
+        "rate": 3,
+        "count": 400
+        }
+    },
+    {
+        "id": 8,
+        "title": "ピアス フクロウローズゴールドメッキステンレススチールダブル",
+        "price": 1600,
+        "description": "ローズゴールドメッキのダブルフレアトンネルプラグイヤリング。316Lステンレススチール製。",
+        "category": "jewelery",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/8.jpg",
+        "rating": {
+        "rate": 1.9,
+        "count": 100
+        }
+    },
+    {
+        "id": 9,
+        "title": "WD 2TB Elements ポータブル外付けハードドライブ - USB 3.0 ",
+        "price": 10000,
+        "description": "USB 3.0 および USB 2.0 互換性 高速データ転送 PC パフォーマンスの向上 大容量; 互換性 Windows 10、Windows 8.1、Windows 7 用に NTFS でフォ​​ーマット済み; 他のオペレーティング システムでは再フォーマットが必要な場合があります; 互換性はユーザーのハードウェア構成とオペレーティング システムによって異なる場合があります",
+        "category": "electronics",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/9.jpg",
+        "rating": {
+        "rate": 3.3,
+        "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "title": "SanDisk SSD PLUS 1TB 内蔵 SSD - SATA III 6 Gb/s",
+        "price": 16000,
+        "description": "簡単にアップグレードでき、起動、シャットダウン、アプリケーションのロード、応答が高速化されます (5400 RPM SATA 2.5 インチ ハード ドライブとの比較。公開されている仕様と PCMark vantage スコアを使用した社内ベンチマーク テストに基づきます)。バースト書き込みパフォーマンスが向上し、一般的な PC ワークロードに最適です。パフォーマンスと信頼性の完璧なバランス。最大 535MB/秒/450MB/秒の読み取り/書き込み速度 (社内テストに基づきます。パフォーマンスは、ドライブ容量、ホスト デバイス、OS、アプリケーションによって異なる場合があります。)",
+        "category": "electronics",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/10.jpg",
+        "rating": {
+        "rate": 2.9,
+        "count": 470
+        }
+    },
+    {
+        "id": 11,
+        "title": "シリコンパワー 256GB SSD 3D NAND A55 SLC キャッシュ パフォーマンスブースト SATA III 2.5",
+        "price": 16000,
+        "description": "3D NAND フラッシュを採用し、高速転送を実現。優れた転送速度により、起動が高速化し、全体的なシステム パフォーマンスが向上します。高度な SLC キャッシュ テクノロジーにより、パフォーマンスが向上し、寿命が長くなります。7mm のスリム設計は、ウルトラブックや超スリム ノートブックに最適です。TRIM コマンド、ガベージ コレクション テクノロジー、RAID、ECC (エラー チェックと訂正) をサポートし、パフォーマンスの最適化と信頼性の向上を実現します。",
+        "category": "electronics",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/11.jpg",
+        "rating": {
+        "rate": 4.8,
+        "count": 319
+        }
+    },
+    {
+        "id": 12,
+        "title": "WD 4TB ゲーミングドライブは、PlayStation 4 ポータブル外付けハードドライブで動作します",
+        "price": 17000,
+        "description": "PS4のゲーム体験を広げ、どこでもプレイ可能。セットアップが簡単で高速。大容量の洗練されたデザイン。メーカーによる3年間の限定保証。",
+        "category": "electronics",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/12.jpg",
+        "rating": {
+        "rate": 4.8,
+        "count": 400
+        }
+    },
+    {
+        "id": 13,
+        "title": "Acer SB220Q bi 21.5インチ フルHD (1920 x 1080) IPS 超薄型",
+        "price": 90000,
+        "description": "21.5インチ フルHD (1920 x 1080) ワイドスクリーン IPSディスプレイおよびRadeonフリーシンクテクノロジー。VESAマウントとの互換性はありません。リフレッシュレート: 75Hz - HDMIポートを使用。ゼロフレームデザイン | 超薄型 | 4ms応答時間 | IPSパネル。アスペクト比 - 16:9。サポートされる色 - 1670万色。明るさ - 250ニット。傾斜角度 -5度から15度。水平視野角 - 178度。垂直視野角 - 178度 75ヘルツ",
+        "category": "electronics",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/13.jpg",
+        "rating": {
+        "rate": 2.9,
+        "count": 250
+        }
+    },
+    {
+        "id": 14,
+        "title": "Samsung 49インチ CHG90 144Hz 曲面ゲーミングモニター (LC49HG90DMNXZA) – スーパーウルトラワイドスクリーン QLED",
+        "price": 160000,
+        "description": "49インチの超ウルトラワイド32:9湾曲ゲーミングモニター、27インチのデュアルスクリーンを並べて搭載。量子ドット(QLED)テクノロジー、HDRサポート、工場出荷時のキャリブレーションにより、驚くほどリアルで正確な色とコントラストを実現。144Hzの高リフレッシュレートと1msの超高速応答時間により、モーションブラーやゴーストがなくなり、入力ラグが軽減されます。",
+        "category": "electronics",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/14.jpg",
+        "rating": {
+        "rate": 2.2,
+        "count": 140
+        }
+    },
+    {
+        "id": 15,
+        "title": "BIYLACLESEN レディース 3イン1 スノーボード ジャケット 冬用コート",
+        "price": 8600,
+        "description": "注：ジャケットは米国標準サイズです。普段着のサイズをお選びください。素材：ポリエステル100％、取り外し可能なライナー生地：暖かいフリース。取り外し可能な機能的なライナー：肌に優しく、軽量で暖かい。スタンドカラーのライナージャケットで、寒い天候でも暖かく過ごせます。ジッパー付きポケット：ジッパー付きハンドポケット2つ、胸にジッパー付きポケット2つ（カードや鍵を入れるのに十分な大きさ）、内側に隠しポケット1つ。ジッパー付きハンドポケットと隠しポケットで持ち物を安全に保管できます。人間工学に基づいたデザイン：調節可能で取り外し可能なフードと調節可能な袖口で風や水を防ぎ、快適にフィットします。3 in 1の取り外し可能なデザインでより便利。必要に応じてコートとインナーを分けたり、一緒に着用したりできます。さまざまな季節に適しており、さまざまな気候に適応するのに役立ちます。",
+        "category": "women's clothing",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/15.jpg",
+        "rating": {
+        "rate": 2.6,
+        "count": 235
+        }
+    },
+    {
+        "id": 16,
+        "title": "Lock and Love レディース 取り外し可能なフード付きフェイクレザー モトバイカージャケット",
+        "price": 4500,
+        "description": "100% ポリウレタン(表地)、100% ポリエステル(裏地)、75% ポリエステル、25% コットン(セーター)、スタイリッシュで快適なフェイクレザー素材 / フロントにポケット 2 つ、2 For One フード付きデニムスタイルフェイクレザージャケット、ウエストにボタンディテール / サイドにディテールステッチ、手洗いのみ / 漂白剤使用不可 / 吊り干し / アイロン不可",
+        "category": "women's clothing",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/16.jpg",
+        "rating": {
+        "rate": 2.9,
+        "count": 340
+        }
+    },
+    {
+        "id": 17,
+        "title": "レインジャケット レディース ウィンドブレーカー ストライプ クライミング レインコート",
+        "price": 6000,
+        "description": "旅行や普段着に最適な軽量設計。フード付きの長袖、調節可能なドローストリングウエストデザイン。フロントはボタンとジッパーで開閉するレインコート。裏地は総ストライプ。レインコートには2つのサイドポケットがあり、あらゆるものを収納できるサイズです。ヒップをカバーし、フードはたっぷりとしていますが、やりすぎではありません。調節可能なドローストリングが付いたコットン裏地のフードが、本物のスタイリッシュな外観を与えます。",
+        "category": "women's clothing",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/17.jpg",
+        "rating": {
+        "rate": 3.8,
+        "count": 679
+        }
+    },
+    {
+        "id": 18,
+        "title": "MBJ レディース 無地 半袖 ボートネック V",
+        "price": 1480,
+        "description": "95% レーヨン、5% スパンデックス、米国製または輸入品、漂白不可、快適な伸縮性を備えた軽量生地、袖とネックラインはリブ編み、裾はダブルステッチ",
+        "category": "women's clothing",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/18.jpg",
+        "rating": {
+        "rate": 4.7,
+        "count": 130
+        }
+    },
+    {
+        "id": 19,
+        "title": "オプナ レディース 半袖 モイスチャー",
+        "price": 1200,
+        "description": "100%ポリエステル、洗濯機洗い、100%カチオンポリエステルインターロック、洗濯機洗い&防縮加工で優れたフィット感、軽量でゆったりとした作りで通気性に優れ、湿気を逃がす吸湿発散性生地で湿気を逃がします。快適なVネックカラーとスリムフィットの柔らかく軽量な生地で、洗練された女性らしいシルエットとさらなる快適さを実現。",
+        "category": "women's clothing",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/19.jpg",
+        "rating": {
+        "rate": 4.5,
+        "count": 146
+        }
+    },
+    {
+        "id": 20,
+        "title": "DANVOUY レディース Tシャツ カジュアル コットン ショート",
+        "price": 2000,
+        "description": "95%コットン、5%スパンデックス。特徴: カジュアル、半袖、レタープリント、Vネック、ファッションTシャツ。生地は柔らかく、伸縮性があります。用途: カジュアル/オフィス/ビーチ/学校/自宅/ストリート。季節: 春、夏、秋、冬。",
+        "category": "women's clothing",
+        "image": "https://yosshyjungle.sakura.ne.jp/api/images/20.jpg",
+        "rating": {
+        "rate": 3.6,
+        "count": 145
+        }
+    }
+    ]
